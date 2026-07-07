@@ -1,0 +1,31 @@
+; Engine configuration file.
+; It's best edited using the editor UI and not directly,
+; since the parameters that go here are not all obvious.
+;
+; Format:
+;   [section] ; section goes between []
+;   param=value ; assign values to parameters
+
+config_version=5
+
+[application]
+
+config/name="Saltmire FX — 2D Sprite Shader Effects"
+config/description="Free MIT sprite shader effects for Godot 4: dissolve, outline, hit-flash, freeze, hologram. One line each."
+config/version="1.0.0"
+run/main_scene="res://demo/demo.tscn"
+config/features=PackedStringArray("4.6", "Forward Plus")
+
+[autoload]
+
+FX="*res://addons/saltmire_fx/fx.gd"
+
+[display]
+
+window/size/viewport_width=1280
+window/size/viewport_height=720
+window/stretch/mode="canvas_items"
+
+[editor_plugins]
+
+enabled=PackedStringArray("res://addons/saltmire_fx/plugin.cfg")
