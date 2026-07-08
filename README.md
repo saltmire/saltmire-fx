@@ -48,6 +48,10 @@ Part of the **Saltmire** game-feel family — pairs with:
 - [Saltmire Juice](https://saltmire.itch.io/saltmire-juice) — screen shake, hit-stop, damage numbers.
 - [Saltmire Transitions](https://saltmire.itch.io/saltmire-transitions-scene-transition-kit-for-godot-4) — one-line scene transitions.
 
+## ⚡ Want the whole combo in one call?
+
+[Juice](https://saltmire.itch.io/saltmire-juice), FX, [Trail](https://saltmire.itch.io/saltmire-trail), [Spark](https://saltmire.itch.io/saltmire-spark) and [Transitions](https://saltmire.itch.io/saltmire-transitions-scene-transition-kit-for-godot-4) are free and standalone. **[Saltmire Impact](https://saltmire.itch.io/saltmire-impact)** wires the whole family into one-line combo hits — shake + flash + particles + slow-mo from a single call. If FX saved you time, Impact saves you the wiring.
+
 ## License
 
 MIT — read it, fork it, ship it. See [LICENSE.txt](LICENSE.txt).
